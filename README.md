@@ -5,6 +5,11 @@
     width="100%"
   />
 </p>
+
+<p align="center">
+  <sub><code>BHUTAN · SYSTEMS · AI · SECURITY</code></sub>
+</p>
+
 <p align="center">
   <img
     src="./file_0000000061e88211a2616e9a7d34c975.png"
@@ -13,9 +18,6 @@
   />
 </p>
 <div align="center">
-
-
-<br/>
 
 <a href="https://github.com/rjr12-blip">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1000&color=2DD4BF&center=true&vCenter=true&width=820&lines=I+build+to+understand.;AI-assisted+%E2%80%A2+Web+%E2%80%A2+Security.;Engineering+what%27s+under+the+hood.;From+Bhutan+%E2%80%94+building+for+the+world." alt="Typing introduction"/>
@@ -332,9 +334,8 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0b1020,100:0f766e&height=80&text=Build%20%E2%86%92%20Break%20%E2%86%92%20Understand%20%E2%86%92%20Repeat&fontFamily=JetBrains+Mono&fontSize=14&fontColor=64748b&fontAlignY=50" width="100%"/>
+<sub><code>Build → Break → Understand → Repeat</code></sub>
 
-<br/>
 
 <sub><i>Crafted with intent — from the Himalayas to the world 🇧🇹</i></sub>
 
