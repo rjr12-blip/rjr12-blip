@@ -20,7 +20,11 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rjr12-blip&label=PROFILE%20VIEWS&color=0f766e&style=for-the-badge&labelColor=1e293b"/>
+<img src="https://komarev.com/ghpvc/?username=rjr12-blip&label=PROFILE%20VIEWS&color=0f766e&style=for-the-badge&labelColor=1e293b"/><br/>
+
+<p align="center">
+  <span style="background-color:#3a3520;border:1px solid #6b6330;border-radius:10px;padding:10px 22px;color:#f0e2a0;font-size:16px;">☺️&nbsp;&nbsp;<i>I wish I could</i></span>
+</p>
 
 </div>
 
@@ -245,7 +249,39 @@ flowchart LR
 
 <div align="center">
 
-<sub><code>[ 06 ]&nbsp;&nbsp;NOW</code></sub>
+<sub><code>[ 06 ]&nbsp;&nbsp;BUILDS</code></sub>
+
+🏗️ &nbsp;Featured&nbsp;Builds
+
+<br/>
+
+<sub><i>Selected work — rendered live from the repos.</i></sub>
+
+<br/><br/>
+
+<a href="https://github.com/rjr12-blip/JACK-FROST-BIO">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rjr12-blip&repo=JACK-FROST-BIO&show_icons=true&hide_border=true&bg_color=0b1020&title_color=38bdf8&icon_color=2dd4bf&text_color=e2e8f0"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rjr12-blip&repo=JACK-FROST-BIO&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0f766e&icon_color=312e81&text_color=1e293b" width="49%" alt="JACK-FROST-BIO" loading="lazy"/>
+  </picture>
+</a>
+<a href="https://github.com/rjr12-blip/CarePoint">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rjr12-blip&repo=CarePoint&show_icons=true&hide_border=true&bg_color=0b1020&title_color=38bdf8&icon_color=2dd4bf&text_color=e2e8f0"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rjr12-blip&repo=CarePoint&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0f766e&icon_color=312e81&text_color=1e293b" width="49%" alt="CarePoint" loading="lazy"/>
+  </picture>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30,50,100&height=3&section=header&reversal=false&animation=fadeIn" width="100%"/>
+
+<br/>
+<div align="center">
+
+<sub><code>[ 07 ]&nbsp;&nbsp;NOW</code></sub>
 
 🌱 &nbsp;Currently
 
@@ -274,13 +310,13 @@ flowchart LR
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30,50,100&height=3&section=header&reversal=false&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30,50,100&height=3&section=header&reversal=true&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-<sub><code>[ 07 ]&nbsp;&nbsp;UPLINK</code></sub>
+<sub><code>[ 08 ]&nbsp;&nbsp;UPLINK</code></sub>
 
 🛰️ &nbsp;Establish&nbsp;Connection
 
