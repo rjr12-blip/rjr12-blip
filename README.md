@@ -1,3 +1,4 @@
+<img src="assets/hero-banner.jpg" width="100%" alt="The deeper I dig, the more there is to discover."/>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b1020,30:1e1b4b,65:312e81,100:0f766e&text=RAJAN%20SUBBA&fontFamily=Space+Grotesk&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Security%20Explorer&descAlignY=66&descSize=17&descAlign=50&animation=fadeIn"/>
