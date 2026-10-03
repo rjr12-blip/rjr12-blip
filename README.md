@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b1020,30:1e1b4b,65:312e81,100:0f766e&text=RAJAN%20SUBBA&fontFamily=Space+Grotesk&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Security%20Explorer&descAlignY=66&descSize=17&descAlign=50&animation=fadeIn" width="100%" alt="Rajan Subba"/>
 </picture>
 
-<img src="assets/status-banner.png" width="100%" alt="☺️ I wish I could"/>
+<img src="assets/status-banner.png" width="100%" alt="Though the love fades away life moves on. Keep smiling 😊☃️"/>
 
 <br/>
 
