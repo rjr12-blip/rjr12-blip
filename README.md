@@ -5,13 +5,15 @@
     width="100%"
   />
 </p>
+<p align="center">
+  <img
+    src="./file_0000000061e88211a2616e9a7d34c975.png"
+    alt="Better to build a small dream with discipline than a big dream with distractions."
+    width="100%"
+  />
+</p>
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b1020,30:1e1b4b,65:312e81,100:0f766e&text=RAJAN%20SUBBA&fontFamily=Space+Grotesk&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Security%20Explorer&descAlignY=66&descSize=17&descAlign=50&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b1020,30:1e1b4b,65:312e81,100:0f766e&text=RAJAN%20SUBBA&fontFamily=Space+Grotesk&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Security%20Explorer&descAlignY=66&descSize=17&descAlign=50&animation=fadeIn" width="100%" alt="Rajan Subba"/>
-</picture>
 
-<img src="assets/status-banner.png" width="100%" alt="Though the love fades away life moves on. Keep smiling 😊☃️"/>
 
 <br/>
 
@@ -100,10 +102,6 @@ I like turning ideas into working software, experimenting from **Android** and *
 <img src="https://skillicons.dev/icons?i=py,react,ts,tailwind,supabase,git&theme=dark" alt="Build stack"/>
 
 
-
-
-
-
 🔍 &nbsp;I&nbsp;EXPLORE
 
 <img src="https://skillicons.dev/icons?i=linux,kali&theme=dark" alt="Explore stack"/>
@@ -177,9 +175,6 @@ done
 they are <b>system thinkers</b>, <b>curious breakers</b>, and <b>careful rebuilders</b>.</i></sub>
 
 
-
-
-
 <details>
 <summary><b>→ See the loop</b></summary>
 <br/>
@@ -205,9 +200,6 @@ flowchart LR
 <sub><code>[ 05 ]&nbsp;&nbsp;SIGNAL</code></sub>
 
 📡 &nbsp;Telemetry&nbsp;&amp;&nbsp;Activity
-
-
-
 
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -326,9 +318,6 @@ flowchart LR
 🛰️ &nbsp;Establish&nbsp;Connection
 
 
-
-
-
 <a href="mailto:rajensubba559@gmail.com">
   <img src="https://img.shields.io/badge/INITIATE_CONTACT-0b1020?style=for-the-badge&logo=gmail&logoColor=2dd4bf&labelColor=1e293b" height="40" alt="Email"/>
 </a>
@@ -350,8 +339,4 @@ flowchart LR
 <sub><i>Crafted with intent — from the Himalayas to the world 🇧🇹</i></sub>
 
 
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:312e81,100:0b1020&height=140&section=footer&animation=fadeIn" width="100%"/>
 </div>
